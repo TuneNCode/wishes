@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindCompare", "FindCompare\FindCompare.csproj", "{FE96B0DB-28B9-4C96-A0A3-8089B73EA829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE96B0DB-28B9-4C96-A0A3-8089B73EA829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE96B0DB-28B9-4C96-A0A3-8089B73EA829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE96B0DB-28B9-4C96-A0A3-8089B73EA829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE96B0DB-28B9-4C96-A0A3-8089B73EA829}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B09D015-44F5-43AA-B525-D250D46EB0AE}
+	EndGlobalSection
+EndGlobal
